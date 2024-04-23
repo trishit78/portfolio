@@ -1,0 +1,51 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JS",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Next",
+    "imageSrc": "skills/next.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
+  },
+  {
+    "title": "Material",
+    "imageSrc": "skills/material ui.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
+  }
+  
+]
