@@ -27,20 +27,29 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
-              <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
-              </p>
+              <h3>Problem Solver</h3>
+              <div className="mt-4">
+                <div className="flex items-center space-x-4">
+                <h1 className="text-xl">LeetCode : </h1>
+                <a href="https://leetcode.com/u/trishit78/"><span className="text-xl">
+                leetcode/trishit78
+                  </span></a>
+                </div>
+                <div className="flex items-center space-x-4">
+                <h1 className="text-xl">Code360 : </h1>
+                <a href="https://www.naukri.com/code360/profile/c3286a42-c556-4c74-b763-c73b3b99d2c2"><span className="text-xl">
+                code360/trishit
+                  </span></a>
+                </div>
+              </div>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Open Source Enthusiast</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                Participated in Hacktoberfest,HackSquad,GSSOC and various open sorce programs, and mentor in GSSOC(2024) 
               </p>
             </div>
           </li>

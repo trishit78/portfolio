@@ -1,26 +1,34 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Amazon Clone",
+    "imageSrc": "projects/amazon image.png",
+    "description": "This is an ecommerce platform to learn about the add to cart functionality using state management tech redux.",
+    "skills": ["React", "TailwindCSS", "Redux","Razorpay api"],
+    "demo": "https://amazon-clone-trishit.netlify.app/",
+    "source": "https://github.com/trishit78/amazon-clone"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Netflix Clone",
+    "imageSrc": "projects/netflix image.png",
+    "description": "This is a project made to learn how to fetch api from TMDB API.",
+    "skills": ["React", "TMDB Api","Firebase"],
+    "demo": "https://netflix-clone-trishit.vercel.app/",
+    "source": "https://github.com/trishit78/Netflix-Clone"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Youtube Clone",
+    "imageSrc": "projects/yt image.png",
+    "description": "This is a project made to learn how to fetch youtube api and how to render a video component.",
+    "skills": ["React", "Youtube API"],
+    "demo": "https://yt-clone-trishit.netlify.app/",
+    "source": "https://github.com/trishit78/YT-Clone"
+  },
+  {
+    "title": "Gemini Clone",
+    "imageSrc": "projects/gemini image.png",
+    "description": "This is a project made to learn how to fetch gemini api and how to create a chat bot.",
+    "skills": ["React", "Gemini API"],
+    "demo": "https://gemini-trishit.netlify.app/",
+    "source": "https://github.com/trishit78/gemini"
   }
 ]

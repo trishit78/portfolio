@@ -90,3 +90,7 @@
     padding-right: 0;
   }
 }
+.leetcode{
+  display: flex;
+  align-items: center;
+}
